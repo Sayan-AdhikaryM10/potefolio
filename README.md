@@ -10,7 +10,18 @@
   <li>License</li>
 </ul>
 <h1>Demo</h1>
-<img src="https://media.licdn.com/dms/image/v2/D5622AQFb8oxFkfTgBQ/feedshare-shrink_800/feedshare-shrink_800/0/1723810188831?e=1726704000&v=beta&t=cf1voPzWmrTHHjPU-vuU6y8yjp2FyolIGsVyf5vfWe0" alt="Error loading image">
+<img src="potefolio/Screenshot 2025-06-14 220149.png" alt="Error loading image">
+<img src="potefolio/Screenshot 2025-06-14 220204.png" alt="Error loading image">
+<img src="potefolio/Screenshot 2025-06-14 221021.png" alt="Error loading image">
+<img src="potefolio/Screenshot 2025-06-14 221048.png" alt="Error loading image">
+<img src="potefolio/Screenshot 2025-06-14 221100.png" alt="Error loading image">
+<img src="potefolio/Screenshot 2025-06-14 221123.png" alt="Error loading image">
+<img src="potefolio/Screenshot 2025-06-14 221142.png" alt="Error loading image">
+<img src="potefolio/Screenshot 2025-06-14 221156.png" alt="Error loading image">
+<img src="potefolio/Screenshot 2025-06-14 221156.png" alt="Error loading image">
+<img src="potefolio/Screenshot 2025-06-14 221306.png" alt="Error loading image">
+<img src="potefolio/Screenshot 2025-06-14 221315.png" alt="Error loading image">
+
 <h1>Features</h1>
 <p>My portfolio includes the following features:</p>
 <ul>
